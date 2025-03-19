@@ -10,4 +10,4 @@
 - V1.0.0.0 能玩了
 
 # 规则
-TODO
+[这里](https://www.luogu.com.cn/problem/T583533)
